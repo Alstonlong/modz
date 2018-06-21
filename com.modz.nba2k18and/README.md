@@ -16,13 +16,17 @@ To use modz, you need to download doddercat app first, Dodder Cat download url a
             		  
 the mod video's url of youtube
 
-* 
+*
+
+this mod screenshot
+
+* ![](https://github.com/Alstonlong/modz/blob/master/com.modz.nba2k18and/screenshot/modz.jpg)
 
 
 ## About
 
 this modz is game assist about com.t2ksports.nba2k18and
 
-## What's New in Version ""
+## What's New in Version
 
 * support game version 37.0.3(37) 
