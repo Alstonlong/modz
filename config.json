@@ -1,0 +1,85 @@
+{
+
+	"author": "Alstonlong",
+	"id": "Alstonlong-10004",
+	"introduce": "Favorite RPG games",
+	"modzList": [{
+		"modz": "https://github.com/Alstonlong/modz/raw/master/com.modz.crashlands/com.modz.crashlands.modz",
+		"readme": "https://github.com/Alstonlong/modz/raw/master/com.modz.crashlands/README.md",
+		"desc": "Invincible,speed,buff,items,material,attack distance,building time,game mode,It's all you want.",
+		"name": "I'm god",
+		"pkgName": "com.modz.crashlands",
+		"versionCode": 7,
+		"versionName": "1.0.7",
+		"target": "com.bscotch.crashlands",
+		"support": "1002037,1003013",
+		"gameName": "Crashlands",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 7,
+			"versionName": "1.0.7",
+			"whatsNew": "support game version 1.3.13(1003013)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Alstonlong/modz/raw/master/com.modz.crashlands/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.bscotch.crashlands"
+		]
+	}, {
+		"modz": "https://github.com/Alstonlong/modz/raw/master/com.modz.hitmansniperandroid/com.modz.hitmansniperandroid.modz",
+		"readme": "https://github.com/Alstonlong/modz/raw/master/com.modz.hitmansniperandroid/README.md",
+		"desc": "The enemy can't move,reload,Attack damage and range.",
+		"name": "Best Sniper",
+		"pkgName": "com.modz.hitmansniperandroid",
+		"versionCode": 24,
+		"versionName": "1.0.24",
+		"target": "com.squareenixmontreal.hitmansniperandroid",
+		"support": "108048",
+		"gameName": "Hitman: Sniper",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 24,
+			"versionName": "1.0.24",
+			"whatsNew": "support game version 1.7.108048(108048)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Alstonlong/modz/raw/master/com.modz.hitmansniperandroid/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.squareenixmontreal.hitmansniperandroid"
+		]
+	}, {
+		"modz": "https://github.com/Alstonlong/modz/raw/master/com.modz.shadowfight3/com.modz.shadowfight3.modz",
+		"readme": "https://github.com/Alstonlong/modz/raw/master/com.modz.shadowfight3/README.md",
+		"desc": "Invincible,infinity Energy,Add Damage,Here we go!",
+		"name": "I can do Kung Fu!",
+		"pkgName": "com.modz.shadowfight3",
+		"versionCode": 15,
+		"versionName": "1.0.15",
+		"target": "com.nekki.shadowfight3",
+		"support": "10118",
+		"gameName": "Shadow Fight 3",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 15,
+			"versionName": "1.0.15",
+			"whatsNew": "support game version 1.11.0(10118)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Alstonlong/modz/raw/master/com.modz.shadowfight3/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.nekki.shadowfight3"
+		]
+	}]
+}
