@@ -2,7 +2,7 @@
 
 Modz download url https://github.com/Alstonlong/modz/raw/master/com.modz.nba2k18and/com.modz.nba2k18and.modz
 
-the game's url of google play 
+the game's url
 
 * http://play.google.com/store/apps/details?id=com.t2ksports.nba2k18and
 
