@@ -81,5 +81,31 @@
 		"gameDownloadUrl": [
 			"https://play.google.com/store/apps/details?id=com.nekki.shadowfight3"
 		]
+	}, {
+		"modz": "https://github.com/Alstonlong/modz/raw/master/com.modz.nba2k18and/com.modz.nba2k18and.modz",
+		"readme": "https://github.com/Alstonlong/modz/raw/master/com.modz.nba2k18and/README.md",
+		"desc": "My Career mode add  all Upgrade Attributes",
+		"name": "I'm the champion!",
+		"pkgName": "com.modz.nba2k18and",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.t2ksports.nba2k18and",
+		"support": "36,37",
+		"gameName": "Nba2k18",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"versionName": "1.0.1",
+			"whatsNew": "support game version (36,37)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Alstonlong/modz/raw/master/com.modz.nba2k18and/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.t2ksports.nba2k18and"
+		]
 	}]
 }
