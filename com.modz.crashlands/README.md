@@ -20,8 +20,8 @@ the mod video's url of youtube
 
 this mod screenshot
 
-* ![](https://github.com/Alstonlong/modz/blob/master/com.modz.crashlands/screenshot/modz1.jpg)
-* ![](https://github.com/Alstonlong/modz/blob/master/com.modz.crashlands/screenshot/modz2.jpg)
+![](https://github.com/Alstonlong/modz/blob/master/com.modz.crashlands/screenshot/modz1.jpg)
+![](https://github.com/Alstonlong/modz/blob/master/com.modz.crashlands/screenshot/modz2.jpg)
 
 
 ## About
