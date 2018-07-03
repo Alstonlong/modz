@@ -107,5 +107,25 @@
 		"gameDownloadUrl": [
 			"https://play.google.com/store/apps/details?id=com.t2ksports.nba2k18and"
 		]
-	}]
+	},{
+	"modz": "https://github.com/Alstonlong/modz/raw/master/com.modz.pokemonquest/com.modz.pokemonquest.modz",
+	"readme": "https://github.com/Alstonlong/modz/raw/master/com.modz.pokemonquest/README.md",
+	"desc": "Recovery batteries and Decorations free,good!",
+	"name": "Pokemon go",
+	"pkgName": "com.modz.pokemonquest",
+	"versionCode": 1,
+	"versionName": "1.0.1",
+	"target": "jp.pokemon.pokemonquest",
+	"support": "*",
+	"gameName": "Pokemon Quest",
+	"iconUrl": "",
+	"changelog": [{
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"whatsNew": "support game version (*)"
+	}],
+	"screenshotUrl": ["https://github.com/Alstonlong/modz/raw/master/com.modz.pokemonquest/screenshot/modz.jpg"],
+	"videoUrl": [""],
+	"gameDownloadUrl": ["http://play.google.com/store/apps/details?id=jp.pokemon.pokemonquest"]
+}]
 }
