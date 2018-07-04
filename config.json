@@ -61,16 +61,16 @@
 		"desc": "Invincible,infinity Energy,Add Damage,Here we go!",
 		"name": "I can do Kung Fu!",
 		"pkgName": "com.modz.shadowfight3",
-		"versionCode": 15,
-		"versionName": "1.0.15",
+		"versionCode": 16,
+		"versionName": "1.0.16",
 		"target": "com.nekki.shadowfight3",
-		"support": "10118",
+		"support": "*",
 		"gameName": "Shadow Fight 3",
 		"iconUrl": "",
 		"changelog": [{
-			"versionCode": 15,
-			"versionName": "1.0.15",
-			"whatsNew": "support game version 1.11.0(10118)"
+			"versionCode": 16,
+			"versionName": "1.0.16",
+			"whatsNew": "support game version *"
 		}],
 		"screenshotUrl": [
 			"https://github.com/Alstonlong/modz/raw/master/com.modz.shadowfight3/screenshot/modz.jpg"
